@@ -1,0 +1,6 @@
+The data used here were originally published in:
+
+Wamstad, Joseph A., Jeffrey M. Alexander, Rebecca M. Truty, Avanti Shrikumar, Fugen Li, Kirsten E.
+	Ellertson, Huiming Ding, et al. 2012. "Dynamic and Coordinated Epigenetic Regulation of
+	Developmental Transitions in the Cardiac Lineage." Cell (September).
+	doi:10.1016/j.cell/2012.07.035. http://www.cell.com/fulltext/S0092-8674(12)01062-8.
